@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "SanDisk SSD 1TB",
+    "price": 197.99,
+    "imgUrl": "/imgs/ssd.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iMac",
+    "price": 1977.00,
+    "imgUrl": "/imgs/mac.jpg"
+  },
+  {
+    "id": 3,
+    "name": "iPhone 15",
+    "price": 1599.99,
+    "imgUrl": "/imgs/iphone15.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Samsung S23 Ultra",
+    "price": 1599.00,
+    "imgUrl": "/imgs/s23.jpg"
+  }
+]
